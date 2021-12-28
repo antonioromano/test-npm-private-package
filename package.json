@@ -1,0 +1,19 @@
+{
+  "name": "@aromano89/test-npm-private-package",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/antonioromano/test-npm-private-package.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/antonioromano/test-npm-private-package/issues"
+  },
+  "homepage": "https://github.com/antonioromano/test-npm-private-package#readme"
+}
